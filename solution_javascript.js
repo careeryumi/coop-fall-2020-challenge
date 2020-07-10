@@ -3,7 +3,8 @@ class EventSourcer {
     this.value = 0;
   }
 
-  add(num) {}
+  add(num) {
+  }
   subtract(num) {}
   undo() {}
   redo() {}
